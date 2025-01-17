@@ -11,7 +11,7 @@ Le projet **IPL Social** consiste en la création d'une fonction de validation d
 - **Nom** : Jamili
 - **Prénom** : Haroune
 - **Email Vinci** : [haroune.jamili@student.vinci.be](mailto:haroune.jamili@student.vinci.be)
-- **URL GitHub** :  https://github.com/Haroune-Jamili-Vinci/devops_examen.git
+- **URL GitHub** :  https://github.com/Haroune-Jamili-Vinci/DevOps-Examen.git
 
 ---
 
