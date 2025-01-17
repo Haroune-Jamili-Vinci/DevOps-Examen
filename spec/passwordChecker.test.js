@@ -27,6 +27,16 @@ describe("passwordChecker function should return the answer", function () {
     })
 
 
+    it("Should return true for 8 characters ", function () {
+        const main = new Main();
+
+        const result = main.passwordChecker("bacloamp");
+
+        expect(result).toBe(true);
+    })
+
+
+
 
 
 })
